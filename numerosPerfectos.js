@@ -1,6 +1,5 @@
 let numerosPerfectos = [];
 let suma = 0;
-let i = 2;
 // let num = 30;
 
 function validarTecla(evt) // Validacion de ingreso de solo numeros
